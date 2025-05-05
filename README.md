@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-5ajaki-veri5ight-badge.png)](https://mseep.ai/app/mcp-mirror-5ajaki-veri5ight)
+
 # 🔍 Veri5ight
 
 > Your friendly neighborhood Ethereum node whisperer! A Model Context Protocol (MCP) server that helps Claude chat with Ethereum nodes.
